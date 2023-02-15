@@ -4,7 +4,7 @@ using PreEntrega;
 using System.Reflection;
 using System.Runtime.InteropServices;
 
-namespace EmanuelBarrazaDesafio4.Controllers
+namespace PreEntrega.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
